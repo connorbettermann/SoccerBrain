@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SoccerBrain</string>
+    <string name="main_btn">The Basics</string>
+    <string name="btn1">Rules</string>
+    <string name="btn2">Terminology</string>
+    <string name="btn3">Teams</string>
+    <string name="btn4">Players</string>
+    <string name="menu_btn">Main Menu</string>
+</resources>
